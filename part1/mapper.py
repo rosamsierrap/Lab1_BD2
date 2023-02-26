@@ -1,4 +1,5 @@
-#mapper part 1
+#!/usr/bin/python
+# --*-- coding:utf-8 --*--
 import re
 import sys
 
